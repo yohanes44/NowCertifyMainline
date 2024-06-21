@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">d0113eebf1fa42100ab07866e9b23033</dataset>
+        <order/>
+        <predicate_bundle display_value="Custom portal - Related items">d0113eeb4bfa4210937a9d8c4cb38430</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 07:12:43</sys_created_on>
+        <sys_id>50113eeb04fa4210a461590b2463702f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NowCertifyMainline" source="x_854636_nowcert_0">5fd036eb83fa4210ea6e9530ceaad325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowCertifyMainline">5fd036eb83fa4210ea6e9530ceaad325</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_50113eeb04fa4210a461590b2463702f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:12:43</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

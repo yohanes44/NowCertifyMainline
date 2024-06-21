@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>NowCertifyMainline Ribbon Config</description>
+        <name>NowCertifyMainline Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 07:12:12</sys_created_on>
+        <sys_id>bcf0b6eb95fa421062895c12998b2aa5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NowCertifyMainline Ribbon Config</sys_name>
+        <sys_package display_value="NowCertifyMainline" source="x_854636_nowcert_0">5fd036eb83fa4210ea6e9530ceaad325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowCertifyMainline">5fd036eb83fa4210ea6e9530ceaad325</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_bcf0b6eb95fa421062895c12998b2aa5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:12:12</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>
