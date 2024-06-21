@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="Custom portal - Related items predicate">5c113eebb0fa421009706c75bb6a5e2c</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 07:12:44</sys_created_on>
+        <sys_id>14113eeb9efa4210674a4299a6f1ee20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NowCertifyMainline" source="x_854636_nowcert_0">5fd036eb83fa4210ea6e9530ceaad325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowCertifyMainline">5fd036eb83fa4210ea6e9530ceaad325</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_14113eeb9efa4210674a4299a6f1ee20</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:12:44</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

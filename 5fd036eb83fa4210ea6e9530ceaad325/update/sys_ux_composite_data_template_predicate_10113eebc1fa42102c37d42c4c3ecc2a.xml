@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="task">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,number,opened_by</field_list>
+        <name>My Requests (task) predicate</name>
+        <order/>
+        <predicate_bundle display_value="My Requests (task) bundle">58113eeb9afa42106a00ae64ee43f32a</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 07:12:45</sys_created_on>
+        <sys_id>10113eebc1fa42102c37d42c4c3ecc2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Requests (task) predicate</sys_name>
+        <sys_package display_value="NowCertifyMainline" source="x_854636_nowcert_0">5fd036eb83fa4210ea6e9530ceaad325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowCertifyMainline">5fd036eb83fa4210ea6e9530ceaad325</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_10113eebc1fa42102c37d42c4c3ecc2a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:12:45</sys_updated_on>
+        <table>task</table>
+        <ux_template display_value="My Requests (task) template">dc113eebfafa4210cb34b6ff41a0aa2d</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

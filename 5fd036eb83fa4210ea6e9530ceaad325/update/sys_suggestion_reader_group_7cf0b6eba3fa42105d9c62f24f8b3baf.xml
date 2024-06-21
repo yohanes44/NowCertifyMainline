@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="NowCertifyMainline AI Search Configuration">30f0b6ebd4fa4210dda054b30c05d1ad</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 07:12:12</sys_created_on>
+        <sys_id>7cf0b6eba3fa42105d9c62f24f8b3baf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="NowCertifyMainline" source="x_854636_nowcert_0">5fd036eb83fa4210ea6e9530ceaad325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowCertifyMainline">5fd036eb83fa4210ea6e9530ceaad325</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_7cf0b6eba3fa42105d9c62f24f8b3baf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:12:12</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>
